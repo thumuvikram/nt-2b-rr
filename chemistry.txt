@@ -1,0 +1,6 @@
+iron
+copper
+zinc
+oxygen
+co2
+sulphur
